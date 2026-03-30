@@ -1,0 +1,6 @@
+{
+  "version": "1.0.0",
+  "build": 1,
+  "apk_url": "https://skd-axis.github.io/dstream-web/app-debug.apk",
+  "changelog": "Initial release"
+}
